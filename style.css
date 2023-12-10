@@ -1,8 +1,276 @@
-body {
-    background-color: blue;
+/* Resetovanje margin i padding za sve elemente */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+ 
+
+  @media only screen and (max-width: 768px) {
+    /* Dodajte dodatne prilagodbe za manje ekrane */
+    .pocetak {
+      padding: 5px;
+    }
+  
+    .pocetak i {
+      font-size: 16px;
+    }
+  
+    .dva {
+      padding: 10px;
+    }
+  
+    .dva img {
+      margin-top: 10px;
+    }
+  
+    .cetri {
+      padding: 30px;
+    }
+  
+    .tri {
+      padding: 30px;
+    }
+  
+    .tri h1 {
+      padding-top: 50px;
+    }
+  }
+  
+
+.pocetak {
+    background-color: #202020;
+    height: 30px;
+    white-space: nowrap;
+    color: #e0e0e0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
-body h2 {
+.pocetak p {
+    display: inline-block;
+    margin-top: 5px;
+    padding-left: 70px;
+    color: #808080;;
+}
+
+.pocetak i {
+    margin-left: 40px;
+}
+
+.dva {
+    background-color: #e0e0e0;
+    height: 700px;
+    margin-top: -50px;
+}
+
+.dva img {
+    margin-top: 120px;
+    margin-left: 370px;
+    height: 400px;
+    width: 600px;
+}
+
+.dva h1 {
+    color: white;
     text-align: center;
-    margin-top: 400px;
+    margin-top: 0px;
+}
+
+.dva a {
+    text-decoration: none;
+}
+
+.dva h2 {
+    margin-left: -100px;
+    margin-top: 15px;
+    color: white;
+}
+
+.dva h2 a {
+    text-decoration: none;
+}
+
+.dva a h3{
+    color: blue;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 60px;
+}
+
+.cetri {
+    margin-top: -20px;
+    background-image: url('slika4.jpg');
+    height: 900px;
+}
+
+.cetri h1, h2, h3 {
+    text-align: center;
+    color: white;
+}
+
+.cetri h1 {
+    margin-top: 20px;
+    padding: 600px;
+}
+
+.cetri h2 {
+    margin-top: -620px;
+}
+
+.cetri input {
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+.tri {
+    margin-top: 20px;
+    background-color: black;
+}
+
+.tri h1, h2, h3 {
+    text-align: center;
+    color: white;
+}
+
+.tri h3,a  {
+    color: blue;
+    margin-top: 00px;
+}
+
+.tri img {
+    margin-left: 245px;
+}
+
+.tri h1 {
+    padding-top:  100px;
+}
+
+.pet {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.pet img {
+    width: 670px;
+    margin: 10px;
+}
+
+.sedam {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.sedam img {
+    margin: 10px;
+    width: 670px;
+}
+
+.osam {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.osam img {
+    margin: 10px;
+    width: 670px;
+}
+
+.devet {
+    margin-top: 20px;
+    margin-left: 40px;
+    position: relative;
+}
+
+.devet img {
+    width: 1360px;
+}
+
+.devet input {
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    position: absolute;
+    margin-left: -1100px;
+    margin-top: 650px;
+}
+
+.devet input:hover {
+    background-color: #808080;
+}
+
+.devet h2 {
+    color: white;
+    margin-top: -68px;
+    margin-right: 200px;
+}
+
+.devet h1 {
+    color: white;
+    margin-top: -40px;
+    margin-left: 1000px;
+}
+
+.kraj {
+    background-color: rgba(90, 86, 86, 0.219);
+    height: 450px;
+    margin-top: 80px;
+    padding: 20px;
+}
+
+.kraj p {
+    margin-left: 150px;
+    border-bottom: 1px solid silver;
+    padding-top: 10px;
+}
+
+.kraj1 {
+    background-color: rgba(90, 86, 86, 0.219);
+    padding: 20px;
+}
+
+.kraj1 p {
+    margin-top: -120px;
+    margin-left: 150px;
+}
+
+.kraj2 p {
+    margin-left: 400px;
+    margin-top: -650px;
+}
+
+.kraj3 p {
+    margin-left: 650px;
+    margin-top: -518px;
+}
+
+.kraj4 p {
+    margin-left: 850px;
+    margin-top: -430px;
+}
+
+.kraj5 p {
+    margin-left: 1100px;
+    margin-top: -555px;
+}
+
+.end {
+    background-color: rgba(90, 86, 86, 0.219);
+    margin-top: 62.5px;
+    height: 110px;
+}
+
+.end {
+    border-top: 1px solid silver;
+}
+
+.end p {
+    padding: 30px;
+    margin-left: 140px;
 }
