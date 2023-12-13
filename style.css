@@ -9,8 +9,8 @@
     display: inline-block;
     padding: 5px;
     margin-left: -10px;
-    width: 1440px;
-    height: 40px;
+    width: 1450px;
+    height: 50px;
     margin-top: -8px;
     position: fixed;
     z-index: 1000
@@ -65,7 +65,7 @@
 
 .prvi h1 {
     font-size: 40px;
-    padding-top: 530px;
+    padding-top: 480px;
     text-align: center;
     color: white;
 }
@@ -87,7 +87,7 @@
 }
 
 .prvi #learn {
-    margin-left: 630px;
+    margin-left: 602px;
 }
 
 .prvi #buy {
@@ -97,7 +97,7 @@
 
 .dva {
     background-color: black;
-    height: 700px;
+    height: 680px;
     margin-top: 15px;
 }
 
@@ -109,7 +109,7 @@
 }
 
 .dva h2 {
-    margin-top: 5px;
+    margin-top: -2px;
     text-align: center;
     color: white;
 }
@@ -134,4 +134,339 @@
     height: 300px;
     margin-top: 80px;
     margin-left: 300px;
+}
+
+.tri #qqq {
+    margin: 20px;
+    margin-left: 35px;
+    background-color: #f7f7f7;
+    height: 600px;
+    width: 685px;
+}
+
+.tri #qqq  h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+}
+
+.tri #qqq h2 {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+.tri #qqq #learn-more {
+    color: rgb(56, 150, 208);
+    text-align: center;
+    text-decoration: none;
+    margin-left: 250px;
+    font-size: 20px;
+}
+
+.tri #qqq #a-buy {
+    text-decoration: none;
+    color: rgb(56, 150, 208);
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.tri #qqq img {
+    width: 685px;
+    margin-top: 160px;
+    margin-left: -12px;
+}
+
+.tri #ooo {
+    margin-top: 20px;
+    width: 685px;
+    height: 600px;
+    background-color: #f7f7f7;
+}
+
+.tri #ooo h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+}
+
+.tri #ooo h2 {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.tri #ooo #a-more {
+    color: rgb(56, 150, 208);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 250px;
+}
+
+.tri #ooo #e-buy {
+    color: rgb(56, 150, 208);
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.tri #ooo img {
+    width: 685px;
+    margin-top: 160px;
+    margin-left: -12px;
+}
+
+.cetiri #cetiri {
+    margin: 20px;
+    margin-left: 35px;
+    background-color: #f7f7f7;
+    height: 600px;
+    width: 685px;
+}
+
+.cetiri #cetiri h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+}
+
+.cetiri #cetiri p {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.cetiri #cetiri #b-more {
+    color: rgb(56, 150, 208);
+    text-align: center;
+    text-decoration: none;
+    margin-left: 250px;
+    font-size: 20px;
+}
+
+.cetiri #cetiri #b-buy {
+    text-decoration: none;
+    color: rgb(56, 150, 208);
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.cetiri #cetiri img {
+    width: 688px;
+    margin-top: 109.5px;
+    margin-left: -12px;
+}
+
+.cetiri #a-cetiri {
+    margin: 20px;
+    margin-left: 35px;
+    background-color: black;
+    height: 600px;
+    width: 685px;
+    margin-left: 740px;
+    margin-top: -620px;
+}
+
+.cetiri #a-cetiri h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.cetiri #a-cetiri p {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.cetiri #a-cetiri #t-more {
+    color: rgb(56, 150, 208);
+    text-align: center;
+    text-decoration: none;
+    margin-left: 250px;
+    font-size: 20px;
+}
+.cetiri #a-cetiri #t-buy {
+    text-decoration: none;
+    color: rgb(56, 150, 208);
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.cetiri #a-cetiri img {
+    width: 400px;
+    height: 370px;
+    margin-left: 143px;
+    margin-top: 40.5px;
+}
+
+.pet #pet {
+    margin: 20px;
+    margin-left: 35px;
+    background-color: #f7f7f7;
+    height: 600px;
+    width: 685px;
+}
+
+.pet #pet h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+}
+
+.pet #pet p {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pet #pet #t-more {
+    color: rgb(56, 150, 208);
+    text-align: center;
+    text-decoration: none;
+    margin-left: 210px;
+    font-size: 20px;
+}
+
+.pet #pet #t-buy {
+    color: rgb(56, 150, 208);
+    text-align: center;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.pet #pet img {
+    width: 400px;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+
+.pet #a-pet {
+    margin: 20px;
+    margin-left: 35px;
+    background-color: #f7f7f7;
+    height: 600px;
+    width: 685px;
+    margin-left: 740px;
+    margin-top: -620px;
+}
+
+.pet #a-pet h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+}
+
+.pet #a-pet p {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pet #a-pet #what {
+    color: rgb(56, 150, 208);
+    text-align: center;
+    text-decoration: none;
+    margin-left: 250px;
+    font-size: 20px;
+}
+
+.pet #a-pet img {
+    width: 685px;
+    margin-left: -12px;
+    margin-top: 73px;
+}
+
+.sest {
+    background-image: url('slika30.jpg');
+    background-size: cover;
+    height: 600px;
+}
+
+.sest p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: -20px;
+    margin-top: -40px;
+}
+
+.sest h1 {
+    margin-top: -60px;
+    color: white;
+    font-size: 50px;
+    margin-left: 1250px;
+}
+
+.sest input {
+    color: black;
+    margin-left: 80px;
+    margin-top: 490px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.kraj {
+    background-color: silver;
+    margin-top: 40px;
+    height: 1100px;
+}
+
+.kraj p {
+    text-align: left;
+    margin-left: 100px;
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+}
+
+.kraj1 p {
+    margin-left: 100px;
+    margin-top: -650px;
+}
+
+.kraj2 p {
+    margin-left: 300px;
+    margin-top: -420px;
+}
+
+.kraj3 p {
+    margin-left: 580px;
+    margin-top: -355px;
+}
+
+.kraj4 p {
+    margin-left: 780px;
+    margin-top: -305px;
+}
+
+.kraj5 {
+    margin-left: 1050px;
+    margin-top: -425px;
+}
+
+.kraj6 p {
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.ko-cita-taj-ga-prima {
+    border-top: 1px solid black;
+    padding-top: 25px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.ko-ima-preko-40-je-mator p {
+    margin-left: 500px;
+    margin-top: -40px;
+}
+
+
+.footer p {
+    margin-left: 1200px;
+    margin-top: -40px;
 }
