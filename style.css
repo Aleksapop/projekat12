@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+nav ul {
+  color: #fff;
+}
+
 .header {
     background-color: black;
     color: white;
@@ -17,18 +21,18 @@
 }
 
 .header p {
-    margin-left: 30px;
-    margin-top: 15px;
+    margin-left: 30px; // %
+    margin-top: 15px;  // %
     display: inline-block;
 }
 
 .header i {
-    margin-left: 230px;
+    margin-left: 230px; // &
 }
 
 .pre-header {
     background-color: #f7f7f7;
-    height: 720px;
+    height: 720px; 
 }
 
 .pre-header h1, h2 {
@@ -37,7 +41,7 @@
 }
 
 .pre-header h1 {
-    font-size: 55px;
+    font-size: 55px; // 1rem, 2rem...
 }
 
 .pre-header h2 {
@@ -64,8 +68,8 @@
 }
 
 .prvi h1 {
-    font-size: 40px;
-    padding-top: 480px;
+    font-size: 40px; // 1rem , 
+    padding-top: 480px; // %
     text-align: center;
     color: white;
 }
@@ -301,7 +305,7 @@
     margin-top: 40.5px;
 }
 
-.pet #pet {
+.pet #pet { 
     margin: 20px;
     margin-left: 35px;
     background-color: #f7f7f7;
