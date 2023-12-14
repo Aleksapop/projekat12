@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/slavo_3/Documents/projects/alexa/projekat12/logs/.ce5801eb468578d9521dbf634fbd14b94371440a-audit.json",
+    "files": [
+        {
+            "date": 1702584333485,
+            "name": "/Users/slavo_3/Documents/projects/alexa/projekat12/logs/keplerCliNative-2023-12-14.log",
+            "hash": "6ec06b7ec80d94df3a6d83089815bea7"
+        }
+    ]
+}

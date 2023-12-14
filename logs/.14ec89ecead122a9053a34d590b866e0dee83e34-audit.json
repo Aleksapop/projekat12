@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/slavo_3/Documents/projects/alexa/projekat12/logs/.14ec89ecead122a9053a34d590b866e0dee83e34-audit.json",
+    "files": [
+        {
+            "date": 1702584333484,
+            "name": "/Users/slavo_3/Documents/projects/alexa/projekat12/logs/error-2023-12-14.log",
+            "hash": "3293f8f0596d5e7f5650fdd3ff36338c"
+        }
+    ]
+}
