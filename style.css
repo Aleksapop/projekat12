@@ -3,36 +3,34 @@
     padding: 0;
 }
 
-nav ul {
-  color: #fff;
-}
-
 .header {
     background-color: black;
     color: white;
     display: inline-block;
-    padding: 5px;
-    margin-left: -10px;
-    width: 1450px;
-    height: 50px;
-    margin-top: -8px;
+    padding: 0.5%;
+    margin-left: 0%;
+    width: 90rem;
+    height: 3rem;
+    margin-top: -0.7%;
     position: fixed;
     z-index: 1000;
-}
-
-.header p {
-    margin-left: 30px; // %
-    margin-top: 15px;  // %
     display: inline-block;
 }
 
-.header i {
-    margin-left: 230px; // &
+.header .nav-list {
+    display: flex;
+    list-style-type: none;
+    margin-left: 10%;
+    padding: 0.6%;
+}
+
+.header .nav-list li {
+    margin-left: 3%;
 }
 
 .pre-header {
     background-color: #f7f7f7;
-    height: 720px; 
+    height: 45rem; 
 }
 
 .pre-header h1, h2 {
@@ -41,25 +39,25 @@ nav ul {
 }
 
 .pre-header h1 {
-    font-size: 55px; // 1rem, 2rem...
+    font-size: 3.5rem; 
 }
 
 .pre-header h2 {
-    font-size: 30px;
+    font-size: 2rem;
 }
 
 .pre-header a {
     color: rgb(56, 150, 208);
     text-decoration: none;
     text-align: center;
-    margin-left: 700px;
-    font-size: 25px;
+    margin-left: 48%;
+    font-size: 1.6rem;
 }
 
 .pre-header img {
-    width: 320px;
-    margin-top: 90px;
-    margin-left: 550px;
+    width: 20rem;
+    margin-top: 5%;
+    margin-left: 39%;
 }
 
 .prvi {
@@ -68,14 +66,14 @@ nav ul {
 }
 
 .prvi h1 {
-    font-size: 40px; // 1rem , 
-    padding-top: 480px; // %
+    font-size: 2,5rem;  
+    padding-top: 33%;
     text-align: center;
     color: white;
 }
 
 .prvi h2 {
-    margin-top: 5px;
+    margin-top: -0.6%;
     text-align: center;
     color: white;
 }
@@ -83,37 +81,36 @@ nav ul {
 .prvi input {
     background-color: white;
     color: black;
-    margin-left: 500px;
+    margin-left: 50%;
     border-radius: 40px;
-    padding: 10px 20px;
-    font-size: 20px;
+    padding: 0.8% 1%;
+    font-size: 120%;
     cursor: pointer;
 }
 
 .prvi #learn {
-    margin-left: 602px;
+    margin-left: 43%;
 }
 
 .prvi #buy {
-    margin-top: 20px;
-    margin-left: 10px;
+    margin-top: 0.5%;
+    margin-left: 1%;
 }
 
 .dva {
     background-color: black;
-    height: 680px;
-    margin-top: 15px;
+    height: 41rem;
+    margin-top: 1%;
 }
 
 .dva h1 {
-    padding-top: 60px;
+    padding-top: 6%;
     text-align: center;
     color: white;
-    font-size: 60px;
+    font-size: 300%;
 }
 
 .dva h2 {
-    margin-top: -2px;
     text-align: center;
     color: white;
 }
@@ -121,35 +118,35 @@ nav ul {
 .dva a {
     color: rgb(56, 150, 208);
     text-decoration: none;
-    font-size: 23px;
+    font-size: 130%;
 }
 
 .dva #more {
-    margin-left: 620px;
-    margin-bottom: 50px;
+    margin-left: 43%;
+    margin-bottom: 5%;
 }
 
 .dva #buy {
-    margin-left: 50px;
+    margin-left: 5%;
 }
 
 .dva img {
-    width: 1140px;
-    height: 300px;
-    margin-top: 80px;
-    margin-left: 300px;
+    width: 71rem;
+    height: 18rem;
+    margin-top: 5%;
+    margin-left: 21%;
 }
 
 .tri #qqq {
-    margin: 20px;
-    margin-left: 35px;
+    margin: 1.4%;
+    margin-left: 2.3%;
     background-color: #f7f7f7;
-    height: 600px;
-    width: 685px;
+    height: 37rem;
+    width: 43rem;
 }
 
 .tri #qqq  h1 {
-    padding-top: 50px;
+    padding-top: 6.2%;
     text-align: center;
     color: black;
 }
@@ -157,39 +154,39 @@ nav ul {
 .tri #qqq h2 {
     text-align: center;
     color: black;
-    font-size: 25px;
+    font-size: 1.6rem;
 }
 
 .tri #qqq #learn-more {
     color: rgb(56, 150, 208);
     text-align: center;
     text-decoration: none;
-    margin-left: 250px;
-    font-size: 20px;
+    margin-left: 36%;
+    font-size: 1.3rem;
 }
 
 .tri #qqq #a-buy {
     text-decoration: none;
     color: rgb(56, 150, 208);
-    font-size: 20px;
-    margin-left: 40px;
+    font-size: 1.4rem;
+    margin-left: 3%;
 }
 
 .tri #qqq img {
-    width: 685px;
-    margin-top: 160px;
-    margin-left: -12px;
+    width: 43rem;
+    margin-top: 23.53%;
+    margin-left: -2%;
 }
 
 .tri #ooo {
-    margin-top: 20px;
-    width: 685px;
-    height: 600px;
+    margin-top: 1.4%;
+    width: 43rem;
+    height: 37.1rem;
     background-color: #f7f7f7;
 }
 
 .tri #ooo h1 {
-    padding-top: 50px;
+    padding-top: 6%;
     text-align: center;
     color: black;
 }
@@ -197,15 +194,15 @@ nav ul {
 .tri #ooo h2 {
     color: black;
     text-align: center;
-    font-size: 25px;
+    font-size: 1.6rem;
 }
 
 .tri #ooo #a-more {
     color: rgb(56, 150, 208);
     text-align: center;
     text-decoration: none;
-    font-size: 20px;
-    margin-left: 250px;
+    font-size: 1.4rem;
+    margin-left: 37%;
 }
 
 .tri #ooo #e-buy {
@@ -216,21 +213,21 @@ nav ul {
 }
 
 .tri #ooo img {
-    width: 685px;
-    margin-top: 160px;
-    margin-left: -12px;
+    width: 43rem;
+    margin-top: 24%;
+    margin-left: -2%;
 }
 
 .cetiri #cetiri {
-    margin: 20px;
-    margin-left: 35px;
+    margin: 1.4%;
+    margin-left: 2.5%;
     background-color: #f7f7f7;
-    height: 600px;
-    width: 685px;
+    height: 37.5rem;
+    width: 43rem;
 }
 
 .cetiri #cetiri h1 {
-    padding-top: 50px;
+    padding-top: 8%;
     text-align: center;
     color: black;
 }
@@ -238,42 +235,42 @@ nav ul {
 .cetiri #cetiri p {
     color: black;
     text-align: center;
-    font-size: 25px;
+    font-size: 1.6rem;
 }
 
 .cetiri #cetiri #b-more {
     color: rgb(56, 150, 208);
     text-align: center;
     text-decoration: none;
-    margin-left: 250px;
-    font-size: 20px;
+    margin-left: 37%;
+    font-size: 1.4rem;
 }
 
 .cetiri #cetiri #b-buy {
     text-decoration: none;
     color: rgb(56, 150, 208);
-    font-size: 20px;
-    margin-left: 40px;
+    font-size: 1.4rem;
+    margin-left: 5%;
 }
 
 .cetiri #cetiri img {
-    width: 688px;
-    margin-top: 109.5px;
-    margin-left: -12px;
+    width: 43rem;
+    margin-top: 16.4%;
+    margin-left: -2%;
 }
 
 .cetiri #a-cetiri {
-    margin: 20px;
-    margin-left: 35px;
+    margin: 2%;
+    margin-left: 5%;
     background-color: black;
-    height: 600px;
-    width: 685px;
-    margin-left: 740px;
-    margin-top: -620px;
+    width: 43rem;
+    height: 37.5rem;
+    margin-left: 50.8%;
+    margin-top: -42.3%;
 }
 
 .cetiri #a-cetiri h1 {
-    padding-top: 50px;
+    padding-top: 5%;
     text-align: center;
     color: white;
 }
@@ -281,40 +278,41 @@ nav ul {
 .cetiri #a-cetiri p {
     color: white;
     text-align: center;
-    font-size: 25px;
+    font-size: 1.6rem;
 }
 
 .cetiri #a-cetiri #t-more {
     color: rgb(56, 150, 208);
     text-align: center;
     text-decoration: none;
-    margin-left: 250px;
-    font-size: 20px;
+    margin-left: 37%;
+    font-size: 1.4rem;
 }
 .cetiri #a-cetiri #t-buy {
     text-decoration: none;
     color: rgb(56, 150, 208);
-    font-size: 20px;
-    margin-left: 40px;
+    font-size: 1.4rem;
+    margin-left: 6%;
 }
 
 .cetiri #a-cetiri img {
-    width: 400px;
-    height: 370px;
-    margin-left: 143px;
-    margin-top: 40.5px;
+    width: 25rem;
+    height: 23.125rem;
+    margin-left: 23%;
+    margin-top: 8%;
 }
 
 .pet #pet { 
-    margin: 20px;
-    margin-left: 35px;
+    margin: 1%;
+    margin-left: 2.3%;
     background-color: #f7f7f7;
-    height: 600px;
-    width: 685px;
+    height: 37.5rem;
+    width: 43rem;
 }
 
 .pet #pet h1 {
-    padding-top: 50px;
+    margin-left: -1%;
+    padding-top: 5%;
     text-align: center;
     color: black;
 }
@@ -322,43 +320,43 @@ nav ul {
 .pet #pet p {
     color: black;
     text-align: center;
-    font-size: 25px;
+    font-size: 1.6rem;
 }
 
 .pet #pet #t-more {
     color: rgb(56, 150, 208);
     text-align: center;
     text-decoration: none;
-    margin-left: 210px;
-    font-size: 20px;
+    margin-left: 33%;
+    font-size: 1.4rem;
 }
 
 .pet #pet #t-buy {
     color: rgb(56, 150, 208);
     text-align: center;
     text-decoration: none;
-    margin-left: 50px;
-    font-size: 20px;
+    margin-left: 2%;
+    font-size: 1.4rem;
 }
 
 .pet #pet img {
-    width: 400px;
-    margin-left: 130px;
-    margin-top: 50px;
+    width: 25rem;
+    margin-left: 19%;
+    margin-top: 8%;
 }
 
 .pet #a-pet {
-    margin: 20px;
-    margin-left: 35px;
+    margin: 1%;
+    margin-left: 3%;
     background-color: #f7f7f7;
-    height: 600px;
-    width: 685px;
-    margin-left: 740px;
-    margin-top: -620px;
+    height: 37.5rem;
+    width: 43rem;
+    margin-left: 51%;
+    margin-top: -42%;
 }
 
 .pet #a-pet h1 {
-    padding-top: 50px;
+    padding-top: 7.4%;
     text-align: center;
     color: black;
 }
@@ -366,111 +364,111 @@ nav ul {
 .pet #a-pet p {
     color: black;
     text-align: center;
-    font-size: 25px;
+    font-size: 1.6rem;
 }
 
 .pet #a-pet #what {
     color: rgb(56, 150, 208);
     text-align: center;
     text-decoration: none;
-    margin-left: 250px;
-    font-size: 20px;
+    margin-left: 29%;
+    font-size: 1.4rem;
 }
 
 .pet #a-pet img {
-    width: 685px;
-    margin-left: -12px;
-    margin-top: 73px;
+    width: 43rem;
+    margin-left: -2%;
+    margin-top: 10%;
 }
 
 .sest {
     background-image: url('slika30.jpg');
     background-size: cover;
-    height: 600px;
+    height: 37.5rem;
 }
 
 .sest p {
     text-align: center;
     color: white;
-    font-size: 20px;
-    padding-top: -20px;
-    margin-top: -40px;
+    font-size: 1.4rem;
+    padding-top: -1%;
+    margin-top: -2.5%;
 }
 
 .sest h1 {
-    margin-top: -60px;
+    margin-top: -4.5%;
     color: white;
-    font-size: 50px;
-    margin-left: 1250px;
+    font-size: 3.125rem;
+    margin-left: 83%;
 }
 
 .sest input {
     color: black;
-    margin-left: 80px;
-    margin-top: 490px;
+    margin-left: 7%;
+    margin-top: 34.5%;
     background-color: white;
-    border-radius: 20px;
-    padding: 5px 10px;
+    border-radius: 1.5rem;
+    padding: 0.5% 1%;
     cursor: pointer;
 }
 
 .kraj {
     background-color: silver;
-    margin-top: 40px;
-    height: 1100px;
+    margin-top: 2%;
+    height: 68.75rem;
 }
 
 .kraj p {
     text-align: left;
-    margin-left: 100px;
+    margin-left: 6%;
     border-bottom: 1px solid black;
-    padding-bottom: 30px;
+    padding-bottom: 2%;
 }
 
 .kraj1 p {
-    margin-left: 100px;
-    margin-top: -650px;
+    margin-left: 6%;
+    margin-top: -46%;
 }
 
 .kraj2 p {
-    margin-left: 300px;
-    margin-top: -420px;
+    margin-left: 20%;
+    margin-top: -29.5%;
 }
 
 .kraj3 p {
-    margin-left: 580px;
-    margin-top: -355px;
+    margin-left: 40%;
+    margin-top: -24.5%;
 }
 
 .kraj4 p {
-    margin-left: 780px;
-    margin-top: -305px;
+    margin-left: 55%;
+    margin-top: -21.3%;
 }
 
 .kraj5 {
-    margin-left: 1050px;
-    margin-top: -425px;
+    margin-left: 73%;
+    margin-top: -29.5%;
 }
 
 .kraj6 p {
-    margin-top: 80px;
-    margin-left: 100px;
+    margin-top: 10%;
+    margin-left: 6.35%;
 }
 
 .ko-cita-taj-ga-prima {
     border-top: 1px solid black;
-    padding-top: 25px;
-    margin-left: 100px;
-    margin-top: 20px;
+    padding-top: 1.3%;
+    margin-left: 6.35%;
+    margin-top: 1%;
 }
 
 .ko-ima-preko-40-je-mator p {
-    margin-left: 500px;
-    margin-top: -40px;
+    margin-left: 33%;
+    margin-top: -2.8%;
 }
 
 
 .footer p {
-    margin-left: 1200px;
-    margin-top: -40px;
+    margin-left: 85%;
+    margin-top: -2.8%;
 }
