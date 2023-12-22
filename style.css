@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .header {
     background-color: black;
     color: white;
@@ -25,7 +26,7 @@
 }
 
 .header .nav-list li {
-    margin-left: 3%;
+    margin-left: 2.3%;
 }
 
 .pre-header {
@@ -425,6 +426,10 @@
     padding-bottom: 2%;
 }
 
+/*
+slika transparnet 
+*/
+
 .kraj1 p {
     margin-left: 6%;
     margin-top: -46%;
@@ -467,8 +472,195 @@
     margin-top: -2.8%;
 }
 
-
 .footer p {
     margin-left: 85%;
     margin-top: -2.8%;
 }
+
+@media screen and (max-width: 320px) {
+    /* Your CSS for mobile devices */
+
+    .header {
+        width: 690px;
+        padding-left: 91px;
+        font-size: 22px;
+        height: 110px;
+    }
+
+    .header ul li {
+        color: black;
+    }
+
+    .header ul li i {
+        color: white;
+        margin-top: 20px;
+        font-size: 50px;
+        margin-left: -140px;
+    }
+
+    .header ul li #lupa {
+        color: white;
+        margin-top: 30px;
+        margin-left: -635px;
+        font-size: 40px;
+    }
+
+    .header ul li #bag {
+        color: white;
+        margin-top: 30px;
+        margin-left: -570px;
+        font-size: 40px;
+    }
+
+    .header ul li #bars {
+        color: white;
+        margin-top: 30px;
+        margin-left: -505px;
+        font-size: 40px;
+    }
+
+    .pre-header {
+        width: 690px;
+        height: 1050px;
+    }
+    .pre-header img {
+        margin-left: 90px;
+        width: 500px;
+        margin-top: 155px;
+    }
+
+    .pre-header h1 {
+        font-size: 60px;
+    }
+
+    .pre-header h2 {
+        font-size: 37px;
+    }
+
+    .pre-header a {
+        margin-left: 320px;
+        font-size: 30px;
+    }
+
+    .pre-header a {
+        font-size: 35px;
+        margin-left: 310px;
+    }
+
+    .prvi {
+        background-image: none;
+        background-color: white;
+    }
+
+    .prvi h1 {
+       color: black;
+    }
+
+    .prvi h2 {
+        color: black;
+    }
+
+    .prvi #learn {
+        margin-left: -3000px;
+    }
+
+    .prvi #buy {
+        margin-left: -1000px;
+    }
+
+    .dva {
+        margin-top: -720px;
+        width: 690px;
+        height: 980px;
+    }
+
+    .dva img {
+        width: 650px;
+        height: 220px;
+        margin-left: 50px;
+        margin-top: 295px;
+        transform: rotate(90deg);
+    }
+
+    .dva h1 {
+        padding-top: 75px;
+        font-size: 60px;
+    }
+
+    .dva h2 {
+        font-size: 35px;
+    }
+
+    .dva #more {
+        margin-left: 250px;
+        font-size: 30px;
+    }
+
+    .tri {
+        margin-left: -10px;
+        width: 900px;
+        height: 1000px;
+    }
+
+    .tri #qqq {
+        width: 695px;
+        height: 980px;
+    }
+
+    .tri #qqq img {
+        margin-top: 252px;
+        width: 800px;
+        height: 500px;
+        margin-left: -120px;
+    }
+
+    .tri #qqq h1 {
+        font-size: 60px;
+    }
+
+    .tri #qqq h2 {
+        font-size: 40px;
+    }
+
+    .tri #qqq #learn-more {
+        font-size: 35px;
+        margin-left: 210px;
+    }
+
+    .tri #qqq #a-buy {
+        font-size: 35px;
+    }
+
+    .tri #ooo {
+        width: 708px;
+        height: 980px;
+        margin-top: 20px;
+    }
+
+    .tri #ooo h1 {
+        font-size: 60px;
+    }
+
+    .tri #ooo h2 {
+        font-size: 40px;
+    }
+
+    .tri #ooo #a-more {
+        font-size: 35px;
+        margin-left: 210px;
+    }
+
+    .tri #ooo #e-buy {
+        font-size: 35px;
+    }
+
+    .tri #ooo img {
+        margin-top: 480px;
+        margin-left: 8px;
+    }
+
+    .cetiri {
+        margin-top: 1100px;
+    }
+
+  }
