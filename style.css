@@ -663,4 +663,186 @@ slika transparnet
         margin-top: 1100px;
     }
 
+    .cetiri {
+        margin-left: -10px;
+        width: 900px;
+        height: 1000px;
+    }
+
+    .cetiri #cetiri {
+        margin-top: -60px;
+        width: 695px;
+        height: 980px;
+    }
+
+    .cetiri #cetiri img {
+        margin-top: 480px;
+    }
+
+    .cetiri #cetiri h1 {
+        font-size: 60px;
+    }
+
+    .cetiri #cetiri p {
+        font-size: 40px;
+    }
+
+    .cetiri #cetiri #b-more {
+        font-size: 35px;
+        margin-left: 210px;
+    }
+
+    .cetiri #cetiri #b-buy {
+        font-size: 35px;
+    }
+
+    .cetiri #a-cetiri {
+        margin-top: 100px;
+        margin-left: 10px;
+        width: 695px;
+        height: 800px;
+    }
+
+    .cetiri #a-cetiri img {
+        width: 400px;
+        height: 400px;
+        margin-top: 157px;
+    }
+
+    .cetiri #a-cetiri h1 {
+        font-size: 60px;
+    }
+
+    .cetiri #a-cetiri p {
+        font-size: 40px;
+    }
+
+    .cetiri #a-cetiri #t-more {
+        font-size: 35px;
+        margin-left: 210px;
+    }
+
+    .cetiri #a-cetiri #t-buy {
+        font-size: 35px;
+    }
+
+    .pet {
+        margin-top: 900px;
+    }
+
+    .pet {
+        width: 695px;
+    }
+
+    .pet #pet {
+        margin-top: -20px;
+        width: 695px;
+        height: 750px;
+    }
+
+    .pet #pet h1 {
+        font-size: 60px;
+    }
+
+    .pet #pet p {
+        font-size: 40px;
+    }
+
+    .pet #pet #t-more {
+        font-size: 35px;
+        margin-left: 170px;
+    }
+
+    .pet #pet #t-buy {
+        font-size: 35px;
+    }
+
+    .pet #pet img {
+        width: 500px;
+        margin-left: 80px;
+    }
+
+    .pet #a-pet {
+        width: 710px;
+        margin-top: 50px;
+        margin-left: 0px;
+        height: 750px;
+    }
+
+    .pet #a-pet h1 {
+        font-size: 60px;
+    } 
+
+    .pet #a-pet p {
+        font-size: 40px;
+    }
+
+    .pet #a-pet #what {
+        font-size: 35px;
+        margin-left: 130px;
+    }
+
+    .sest {
+        width: 695px;
+    }
+
+    .sest p {
+        margin-left: -70px;
+        margin-top: 280px;
+    }
+
+    .sest h1 {
+        font-size: 30px;
+        margin-left: 570px;
+        margin-top: -52px;
+    }
+
+    .sest input {
+        margin-top: 200px;
+        margin-left: 1000px;
+    }
+
+    .kraj {
+        height: 900px;
+        width: 695px;
+    }
+
+    .kraj1 {
+      margin-left: 100000px;
+    }
+
+    .kraj2 {
+        margin-left: 10000px;
+    }
+
+    .kraj3 {
+        margin-left: 10000px;
+    }
+
+    .kraj4 {
+        margin-left: 10000px;
+    }
+
+    .kraj5 {
+        margin-left: 10000px;
+    }
+
+    .kraj6 {
+        margin-left: 10000px;
+    }
+
+    .ko-cita-taj-ga-prima {
+        margin-top: -4550px;
+        margin-left: 40px;
+    }
+
+    .ko-ima-preko-40-je-mator {
+        margin-left: -100px;
+    }
+
+    .footer {
+        margin-left: -1550px;
+        margin-top: 55px;
+    }
+
   }
