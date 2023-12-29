@@ -481,7 +481,7 @@ slika transparnet
     /* Your CSS for mobile devices */
 
     .header {
-        width: 690px;
+        width: 1695px;
         padding-left: 91px;
         font-size: 22px;
         height: 110px;
@@ -501,30 +501,30 @@ slika transparnet
     .header ul li #lupa {
         color: white;
         margin-top: 30px;
-        margin-left: -635px;
+        margin-left: -70px;
         font-size: 40px;
     }
 
     .header ul li #bag {
         color: white;
         margin-top: 30px;
-        margin-left: -570px;
+        margin-left: -30px;
         font-size: 40px;
     }
 
     .header ul li #bars {
         color: white;
         margin-top: 30px;
-        margin-left: -505px;
+        margin-left: 20px;
         font-size: 40px;
     }
 
     .pre-header {
-        width: 690px;
+        width: 1695px;
         height: 1050px;
     }
     .pre-header img {
-        margin-left: 90px;
+        margin-left: 590px;
         width: 500px;
         margin-top: 155px;
     }
@@ -538,13 +538,8 @@ slika transparnet
     }
 
     .pre-header a {
-        margin-left: 320px;
-        font-size: 30px;
-    }
-
-    .pre-header a {
         font-size: 35px;
-        margin-left: 310px;
+        margin-left: 800px;
     }
 
     .prvi {
@@ -570,15 +565,16 @@ slika transparnet
 
     .dva {
         margin-top: -720px;
-        width: 690px;
+        width: 1700px;
+        margin-left: 0px;
         height: 980px;
     }
 
     .dva img {
         width: 650px;
         height: 220px;
-        margin-left: 50px;
-        margin-top: 295px;
+        margin-left: 520px;
+        margin-top: 285px;
         transform: rotate(90deg);
     }
 
@@ -592,26 +588,31 @@ slika transparnet
     }
 
     .dva #more {
-        margin-left: 250px;
-        font-size: 30px;
+        margin-left: 700px;
+        font-size: 35px;
+    }
+
+    .dva #buy {
+        font-size: 35px;
     }
 
     .tri {
         margin-left: -10px;
-        width: 900px;
+        width: 1900px;
         height: 1000px;
     }
 
     .tri #qqq {
-        width: 695px;
+        width: 1720px;
+        margin-left: 0px;
         height: 980px;
     }
 
     .tri #qqq img {
-        margin-top: 252px;
+        margin-top: 150px;
         width: 800px;
         height: 500px;
-        margin-left: -120px;
+        margin-left: 470px;
     }
 
     .tri #qqq h1 {
@@ -624,7 +625,7 @@ slika transparnet
 
     .tri #qqq #learn-more {
         font-size: 35px;
-        margin-left: 210px;
+        margin-left: 700px;
     }
 
     .tri #qqq #a-buy {
@@ -632,7 +633,7 @@ slika transparnet
     }
 
     .tri #ooo {
-        width: 708px;
+        width: 1720px;
         height: 980px;
         margin-top: 20px;
     }
@@ -647,7 +648,7 @@ slika transparnet
 
     .tri #ooo #a-more {
         font-size: 35px;
-        margin-left: 210px;
+        margin-left: 720px;
     }
 
     .tri #ooo #e-buy {
@@ -655,8 +656,9 @@ slika transparnet
     }
 
     .tri #ooo img {
-        margin-top: 480px;
-        margin-left: 8px;
+        width: 1000px;
+        margin-top: 220px;
+        margin-left: 350px;
     }
 
     .cetiri {
@@ -665,18 +667,21 @@ slika transparnet
 
     .cetiri {
         margin-left: -10px;
-        width: 900px;
+        width: 1900px;
         height: 1000px;
     }
 
     .cetiri #cetiri {
-        margin-top: -60px;
-        width: 695px;
+        margin-top: -40px;
+        margin-left: 0px;
+        width: 1720px;
         height: 980px;
     }
 
     .cetiri #cetiri img {
-        margin-top: 480px;
+        margin-top: 180px;
+        margin-left: 320px;
+        width: 1000px;
     }
 
     .cetiri #cetiri h1 {
@@ -689,7 +694,7 @@ slika transparnet
 
     .cetiri #cetiri #b-more {
         font-size: 35px;
-        margin-left: 210px;
+        margin-left: 690px;
     }
 
     .cetiri #cetiri #b-buy {
@@ -697,16 +702,17 @@ slika transparnet
     }
 
     .cetiri #a-cetiri {
-        margin-top: 100px;
+        margin-top: 10px;
         margin-left: 10px;
-        width: 695px;
+        width: 1710px;
         height: 800px;
     }
 
     .cetiri #a-cetiri img {
-        width: 400px;
-        height: 400px;
-        margin-top: 157px;
+        width: 500px;
+        height: 500px;
+        margin-top: 50px;
+        margin-left: -410px;
     }
 
     .cetiri #a-cetiri h1 {
@@ -719,7 +725,7 @@ slika transparnet
 
     .cetiri #a-cetiri #t-more {
         font-size: 35px;
-        margin-left: 210px;
+        margin-left: 670px;
     }
 
     .cetiri #a-cetiri #t-buy {
@@ -727,16 +733,17 @@ slika transparnet
     }
 
     .pet {
-        margin-top: 900px;
+        margin-top: 1900px;
     }
 
     .pet {
-        width: 695px;
+        width: 1695px;
     }
 
     .pet #pet {
-        margin-top: -20px;
-        width: 695px;
+        margin-top: -1080px;
+        margin-left: 0px;
+        width: 1720px;
         height: 750px;
     }
 
@@ -750,7 +757,7 @@ slika transparnet
 
     .pet #pet #t-more {
         font-size: 35px;
-        margin-left: 170px;
+        margin-left: 670px;
     }
 
     .pet #pet #t-buy {
@@ -759,14 +766,20 @@ slika transparnet
 
     .pet #pet img {
         width: 500px;
-        margin-left: 80px;
+        margin-top: 30px;
+        margin-left: 600px;
     }
 
     .pet #a-pet {
-        width: 710px;
-        margin-top: 50px;
+        width: 1720px;
+        margin-top: -290px;
         margin-left: 0px;
         height: 750px;
+    }
+
+    .pet #a-pet img {
+        margin-left: 490px;
+        margin-top: 20px;
     }
 
     .pet #a-pet h1 {
@@ -779,32 +792,33 @@ slika transparnet
 
     .pet #a-pet #what {
         font-size: 35px;
-        margin-left: 130px;
+        margin-left: 630px;
     }
 
     .sest {
-        width: 695px;
+        width: 1720px;
     }
 
     .sest p {
-        margin-left: -70px;
-        margin-top: 280px;
+        margin-left: -260px;
+        margin-top: -55px;
+        font-size: 30px;
     }
 
     .sest h1 {
-        font-size: 30px;
-        margin-left: 570px;
-        margin-top: -52px;
+        font-size: 40px;
+        margin-left: 1070px;
+        margin-top: -70px;
     }
 
     .sest input {
-        margin-top: 200px;
-        margin-left: 1000px;
+        margin-top: 500px;
+        margin-left: 260px;
     }
 
     .kraj {
-        height: 900px;
-        width: 695px;
+        height: 700px;
+        width: 1720px;
     }
 
     .kraj1 {
@@ -832,17 +846,17 @@ slika transparnet
     }
 
     .ko-cita-taj-ga-prima {
-        margin-top: -4550px;
-        margin-left: 40px;
+        margin-top: -4570px;
+        margin-left: 100px;
     }
 
     .ko-ima-preko-40-je-mator {
-        margin-left: -100px;
+        margin-left: -60px;
     }
 
     .footer {
-        margin-left: -1550px;
-        margin-top: 55px;
+        margin-left: -1750px;
+        margin-top: 60px;
     }
 
   }
