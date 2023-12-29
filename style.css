@@ -477,7 +477,7 @@ slika transparnet
     margin-top: -2.8%;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 375px) {
     /* Your CSS for mobile devices */
 
     .header {
