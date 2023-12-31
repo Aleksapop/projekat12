@@ -426,10 +426,6 @@
     padding-bottom: 2%;
 }
 
-/*
-slika transparnet 
-*/
-
 .kraj1 p {
     margin-left: 6%;
     margin-top: -46%;
@@ -481,10 +477,10 @@ slika transparnet
     /* Your CSS for mobile devices */
 
     .header {
-        width: 1695px;
-        padding-left: 91px;
-        font-size: 22px;
-        height: 110px;
+        width: 106rem;
+        padding-left: 10%;
+        font-size: 5%;
+        height: 2.65625rem;
     }
 
     .header ul li {
@@ -493,53 +489,53 @@ slika transparnet
 
     .header ul li i {
         color: white;
-        margin-top: 20px;
-        font-size: 50px;
-        margin-left: -140px;
+        margin-top: 5%;
+        font-size: 11.76%;
+        margin-left: -20%;
     }
 
     .header ul li #lupa {
         color: white;
-        margin-top: 30px;
-        margin-left: -70px;
-        font-size: 40px;
+        margin-top: 7%;
+        margin-left: -12%;
+        font-size: 8%;
     }
 
     .header ul li #bag {
         color: white;
-        margin-top: 30px;
-        margin-left: -30px;
-        font-size: 40px;
+        margin-top: 7%;
+        margin-left: -10%;
+        font-size: 8%;
     }
 
     .header ul li #bars {
         color: white;
-        margin-top: 30px;
-        margin-left: 20px;
-        font-size: 40px;
+        margin-top: 10%;
+        margin-left: 5%;
+        font-size: 8%;
     }
 
     .pre-header {
-        width: 1695px;
-        height: 1050px;
+        width: 106rem;
+        height: 65.625rem;
     }
     .pre-header img {
-        margin-left: 590px;
-        width: 500px;
-        margin-top: 155px;
+        margin-left: 138.823529%;
+        width: 31.25rem;
+        margin-top: 36.5%;
     }
 
     .pre-header h1 {
-        font-size: 60px;
+        font-size: 14.11%;
     }
 
     .pre-header h2 {
-        font-size: 37px;
+        font-size: 8.7%;
     }
 
     .pre-header a {
-        font-size: 35px;
-        margin-left: 800px;
+        font-size: 8.23%;
+        margin-left: 188.235294%;
     }
 
     .prvi {
@@ -556,307 +552,307 @@ slika transparnet
     }
 
     .prvi #learn {
-        margin-left: -3000px;
+        margin-left: -705.88%;
     }
 
     .prvi #buy {
-        margin-left: -1000px;
+        margin-left: -235.3%;
     }
 
     .dva {
-        margin-top: -720px;
-        width: 1700px;
-        margin-left: 0px;
-        height: 980px;
+        margin-top: -169.4%;
+        width: 106.25rem;
+        margin-left: 0%;
+        height: 230.6%;
     }
 
     .dva img {
-        width: 650px;
-        height: 220px;
-        margin-left: 520px;
-        margin-top: 285px;
+        width: 40.625rem;
+        height: 51.8%;
+        margin-left: 122.25%;
+        margin-top: 67%;
         transform: rotate(90deg);
     }
 
     .dva h1 {
-        padding-top: 75px;
-        font-size: 60px;
+        padding-top: 17.647%;
+        font-size: 14%;
     }
 
     .dva h2 {
-        font-size: 35px;
+        font-size: 8.3%;
     }
 
     .dva #more {
-        margin-left: 700px;
-        font-size: 35px;
+        margin-left: 164%;
+        font-size: 8.23%;
     }
 
     .dva #buy {
-        font-size: 35px;
+        font-size: 8.23%;
     }
 
     .tri {
-        margin-left: -10px;
-        width: 1900px;
-        height: 1000px;
+        margin-left: -2.35%;
+        width: 118.75rem;
+        height: 62.5rem;
     }
 
     .tri #qqq {
-        width: 1720px;
-        margin-left: 0px;
-        height: 980px;
+        width: 107.5rem;
+        margin-left: 0%;
+        height: 61.25;
     }
 
     .tri #qqq img {
-        margin-top: 150px;
-        width: 800px;
-        height: 500px;
-        margin-left: 470px;
+        margin-top: 35.3%;
+        width: 50rem;
+        height: 31.25rem;
+        margin-left: 110.588235%;
     }
 
     .tri #qqq h1 {
-        font-size: 60px;
+        font-size: 14%;
     }
 
     .tri #qqq h2 {
-        font-size: 40px;
+        font-size: 9.4%;
     }
 
     .tri #qqq #learn-more {
-        font-size: 35px;
-        margin-left: 700px;
+        font-size: 8.3%;
+        margin-left: 164.7%;
     }
 
     .tri #qqq #a-buy {
-        font-size: 35px;
+        font-size: 8.3%;
     }
 
     .tri #ooo {
-        width: 1720px;
-        height: 980px;
-        margin-top: 20px;
+        width: 107.5rem;
+        height: 61.25rem;
+        margin-top: 4.7%;
     }
 
     .tri #ooo h1 {
-        font-size: 60px;
+        font-size: 14%;
     }
 
     .tri #ooo h2 {
-        font-size: 40px;
+        font-size: 9.4%;
     }
 
     .tri #ooo #a-more {
-        font-size: 35px;
-        margin-left: 720px;
+        font-size: 8.2;
+        margin-left: 169.4%;
     }
 
     .tri #ooo #e-buy {
-        font-size: 35px;
+        font-size: 8.2%;
     }
 
     .tri #ooo img {
-        width: 1000px;
-        margin-top: 220px;
-        margin-left: 350px;
+        width: 62.5rem;
+        margin-top: 51.76%;
+        margin-left: 82.35%;
     }
 
     .cetiri {
-        margin-top: 1100px;
+        margin-top: 258.8%;
     }
 
     .cetiri {
-        margin-left: -10px;
-        width: 1900px;
-        height: 1000px;
+        margin-left: -2.3%;
+        width: 118.75;
+        height: 62.5rem;
     }
 
     .cetiri #cetiri {
-        margin-top: -40px;
-        margin-left: 0px;
-        width: 1720px;
-        height: 980px;
+        margin-top: -9.4%;
+        margin-left: 0%;
+        width: 107.5rem;
+        height: 61.25rem;
     }
 
     .cetiri #cetiri img {
-        margin-top: 180px;
-        margin-left: 320px;
-        width: 1000px;
+        margin-top: 42.35%;
+        margin-left: 70.588%;
+        width: 62.5rem;
     }
 
     .cetiri #cetiri h1 {
-        font-size: 60px;
+        font-size: 14%;
     }
 
     .cetiri #cetiri p {
-        font-size: 40px;
+        font-size: 9.4%;
     }
 
     .cetiri #cetiri #b-more {
-        font-size: 35px;
-        margin-left: 690px;
+        font-size: 8.23;
+        margin-left: 162.35%;
     }
 
     .cetiri #cetiri #b-buy {
-        font-size: 35px;
+        font-size: 8.235%;
     }
 
     .cetiri #a-cetiri {
-        margin-top: 10px;
-        margin-left: 10px;
-        width: 1710px;
-        height: 800px;
+        margin-top: 2.35%;
+        margin-left: 2.35%;
+        width: 107.5rem;
+        height: 50rem;
     }
 
     .cetiri #a-cetiri img {
-        width: 500px;
-        height: 500px;
-        margin-top: 50px;
-        margin-left: -410px;
+        width: 31.25rem;
+        height: 31.25rem;
+        margin-top: 11.76%;
+        margin-left: -96.47%;
     }
 
     .cetiri #a-cetiri h1 {
-        font-size: 60px;
+        font-size: 14.11%;
     }
 
     .cetiri #a-cetiri p {
-        font-size: 40px;
+        font-size: 9.4%;
     }
 
     .cetiri #a-cetiri #t-more {
-        font-size: 35px;
-        margin-left: 670px;
+        font-size: 8.3%;
+        margin-left: 157.64%;
     }
 
     .cetiri #a-cetiri #t-buy {
-        font-size: 35px;
+        font-size: 8.3%;
     }
 
     .pet {
-        margin-top: 1900px;
+        margin-top: 447%;
     }
 
     .pet {
-        width: 1695px;
+        width: 107.5rem;
     }
 
     .pet #pet {
-        margin-top: -1080px;
-        margin-left: 0px;
-        width: 1720px;
-        height: 750px;
+        margin-top: -254.11%;
+        margin-left: 0%;
+        width: 107.5rem;
+        height: 46.875rem;
     }
 
     .pet #pet h1 {
-        font-size: 60px;
+        font-size: 14.11%;
     }
 
     .pet #pet p {
-        font-size: 40px;
+        font-size: 9.4%;
     }
 
     .pet #pet #t-more {
-        font-size: 35px;
-        margin-left: 670px;
+        font-size: 35%;
+        margin-left: 157%;
     }
 
     .pet #pet #t-buy {
-        font-size: 35px;
+        font-size: 8.23%;
     }
 
     .pet #pet img {
-        width: 500px;
-        margin-top: 30px;
-        margin-left: 600px;
+        width: 31.25rem;
+        margin-top: 7%;
+        margin-left: 141.176%;
     }
 
     .pet #a-pet {
-        width: 1720px;
-        margin-top: -290px;
-        margin-left: 0px;
-        height: 750px;
+        width: 107.5rem;
+        margin-top: -68.23%;
+        margin-left: 0%;
+        height: 46.875rem;
     }
 
     .pet #a-pet img {
-        margin-left: 490px;
-        margin-top: 20px;
+        margin-left: 115.29%;
+        margin-top: 4.7%;
     }
 
     .pet #a-pet h1 {
-        font-size: 60px;
+        font-size: 14.3%;
     } 
 
     .pet #a-pet p {
-        font-size: 40px;
+        font-size: 9.4%;
     }
 
     .pet #a-pet #what {
-        font-size: 35px;
-        margin-left: 630px;
+        font-size: 8.3%;
+        margin-left: 148.23%;
     }
 
     .sest {
-        width: 1720px;
+        width: 107.5rem;
     }
 
     .sest p {
-        margin-left: -260px;
-        margin-top: -55px;
-        font-size: 30px;
+        margin-left: -61.17%;
+        margin-top: -12.9%;
+        font-size: 7%;
     }
 
     .sest h1 {
-        font-size: 40px;
-        margin-left: 1070px;
-        margin-top: -70px;
+        font-size: 9.4%;
+        margin-left: 251.764%;
+        margin-top: -16.47%;
     }
 
     .sest input {
-        margin-top: 500px;
-        margin-left: 260px;
+        margin-top: 117.64%;
+        margin-left: 61.176%;
     }
 
     .kraj {
-        height: 700px;
-        width: 1720px;
+        height: 43.75rem;
+        width: 107.5rem;
     }
 
     .kraj1 {
-      margin-left: 100000px;
+      margin-left: 2352%;
     }
 
     .kraj2 {
-        margin-left: 10000px;
+        margin-left: 2352%;
     }
 
     .kraj3 {
-        margin-left: 10000px;
+        margin-left: 2352%;
     }
 
     .kraj4 {
-        margin-left: 10000px;
+        margin-left: 2352%;
     }
 
     .kraj5 {
-        margin-left: 10000px;
+        margin-left: 2352%;
     }
 
     .kraj6 {
-        margin-left: 10000px;
+        margin-left: 2352%;
     }
 
     .ko-cita-taj-ga-prima {
-        margin-top: -4570px;
-        margin-left: 100px;
+        margin-top: -1075.3%;
+        margin-left: 23.523%;
     }
 
     .ko-ima-preko-40-je-mator {
-        margin-left: -60px;
+        margin-left: -14.11%;
     }
 
     .footer {
-        margin-left: -1750px;
-        margin-top: 60px;
+        margin-left: -411.764706%;
+        margin-top: 14.11%;
     }
 
   }
